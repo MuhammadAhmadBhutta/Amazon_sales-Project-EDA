@@ -33,7 +33,7 @@ A premium, interactive **Exploratory Data Analysis (EDA)** dashboard designed to
 
 1. **Clone the Repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/MuhammadAhmadBhutta/Amazon_sales-Project-EDA
    cd "Amazon_sales Project EDA"
    ```
 
